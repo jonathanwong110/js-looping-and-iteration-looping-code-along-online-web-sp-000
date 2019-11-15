@@ -13,7 +13,7 @@ function writeCards(name) {
 
 function countdown(num) {
   while (num >= 0) {
-    console.log(num-1)
+    console.log(num--)
   }
 }
 
