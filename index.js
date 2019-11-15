@@ -1,11 +1,15 @@
 // Code your solutions in this file
 
 
-function writeCards(names, surprise) {
+function wrapCards(name, event) {
   let array = [];
-  for 
-  
+  for (let i = 0; i < gifts.length; i++) {
+    console.log(`Thank you ${name[i]}, for the wonderful surprise gift!`);
+  }
+ 
+  return cards;
 }
+ 
 
 function countdown(number) {
   
