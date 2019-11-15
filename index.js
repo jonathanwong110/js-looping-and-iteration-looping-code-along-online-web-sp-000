@@ -1,6 +1,5 @@
 // Code your solutions in this file
 
-const cards = ['Lisa', 'Kaitlin', 'Jan'];
 
 function writeCards(cards) {
   for (let i = 0; i < cards.length; i++) {
@@ -9,5 +8,7 @@ function writeCards(cards) {
   return cards;
 }
 
-function countdown
+function countdown(number) {
+  
+}
 
