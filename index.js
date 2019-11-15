@@ -9,5 +9,5 @@ function writeCards(cards) {
   return cards;
 }
 
-writeCards(cards);
+function countdown
 
